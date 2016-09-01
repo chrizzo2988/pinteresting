@@ -1,3 +1,13 @@
-$body-bg: #8e44ad;
+@import url(http://fonts.googleapis.com/css?family=Lato;400,700);
+
+$body-bg: #6600cc;
+$btn-primary-color: #ffffff;
+$btn-primary-bg: #6600cc;
+$jumbotron-bg: white;
 
 @import 'bootstrap';
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+
+.center {
+	text-align: center;
+}
